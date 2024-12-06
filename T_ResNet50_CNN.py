@@ -4,6 +4,6 @@ import torch
 from torchvision import models
 
 def load_resnet50(pretrained=True):
-    model = models.resnet50(weights='IMAGENET1K_V1' if pretrained else None)
+    model = models.resnet50(pretrained=pretrained) 
     model.eval() 
     return model
