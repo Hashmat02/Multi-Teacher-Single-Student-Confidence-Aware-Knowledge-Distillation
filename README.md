@@ -5,7 +5,7 @@
 **Multi-teacher, single-student knowledge distillation that balances texture and shape bias for better out-of-distribution generalization.**
 
 [![Paper](https://img.shields.io/badge/Paper-PDF-b31b1b.svg)](Final_ATML.pdf)
-[![Course](https://img.shields.io/badge/LUMS-ATML%20Final%20Project-6a3aa7.svg)](Final_ATML.pdf)
+[![Course](https://img.shields.io/badge/Research%20Project-2024-6a3aa7.svg)](Final_ATML.pdf)
 [![Python](https://img.shields.io/badge/Python-PyTorch-3776ab.svg)](#repository-structure)
 
 📄 **[Read the full paper (PDF)](Final_ATML.pdf)**
@@ -182,16 +182,5 @@ Every baseline wins on exactly **one** cue and fails on the other. Our confidenc
 
 ## Authors
 
-**Abdullah Hashmat · Raafay Saeed Kazmi · Zammad Bin Ziyad Khan**
-Lahore University of Management Sciences (LUMS)
-
-## Citation
-
-```bibtex
-@techreport{hashmat2024oodkd,
-  title     = {OOD Generalization using Confidence Aware Multi-Teacher Knowledge Distillation},
-  author    = {Hashmat, Abdullah and Kazmi, Raafay Saeed and Khan, Zammad Bin Ziyad},
-  institution = {Lahore University of Management Sciences},
-  year      = {2024}
-}
-```
+**Abdullah Hashmat**
+Research Project · 2024
